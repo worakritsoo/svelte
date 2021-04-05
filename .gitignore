@@ -1,8 +1,5 @@
-/node_modules/
-/public/build/
 .DS_Store
-.env
-.env.local
-.env.build
-
-.vercel
+node_modules
+/.svelte
+/build
+/functions
